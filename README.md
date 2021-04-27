@@ -26,3 +26,5 @@ MinimaxAgent: A minimax agent is implemented using a minimax tree with multiple 
 AlphaBetaAgent: An alpha beta agent uses alpha-beta pruning to explore the minimax tree.
 
 Expectimax: The expectimax pacman makes decisions using the expected value
+
+BetterEvaluationFunction: Use some concept ideas from pacman  to make my agent solve even more difficult states
