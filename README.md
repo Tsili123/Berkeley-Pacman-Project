@@ -27,4 +27,4 @@ AlphaBetaAgent: An alpha beta agent uses alpha-beta pruning to explore the minim
 
 Expectimax: The expectimax pacman makes decisions using the expected value
 
-BetterEvaluationFunction: Use some concept ideas from pacman  to make my agent solve even more difficult states
+BetterEvaluationFunction: I used some more clever ideas to make my agent solve even more difficult states
