@@ -3,7 +3,7 @@ Project 1 and 2 from Berkeley university
 
 Pacman Artificial Intelligence Python project for UC Berkeley CS188 Intro to AI
 
-Project 1: Search:
+#Project 1: Search:
 
 Depth-First Search (DFS): Graph search that avoids expanding already visited states. Fringe implemented via stack.
 
@@ -17,7 +17,7 @@ CornersProblem: Search problem and heuristic for pacman to reach all active corn
 
 FoodSearchProblem: Search problem and heuristic for pacman to eat all active dots on board.
 
-Project 2: Multiagents:
+#Project 2: Multiagents:
 
 ReflexAgent: A reflex agent uses an evaluation function (aka heuristic function) to estimate the value of an action using the current * game state. The Reflex Agent considered food locations and ghost locations, using reciprocals of distances as features.
 
